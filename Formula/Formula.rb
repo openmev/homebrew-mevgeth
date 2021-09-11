@@ -1,7 +1,7 @@
 class MEV-Ethereum < Formula
   desc "Go implementation of MEV-Auction for Ethereum"
   homepage "https://github.com/flashbots/mev-geth"
-  url "https://github.com/flashbots/mev-geth.git", :tag => "v1.10.6-mev0.3.0"
+  url "https://github.com/flashbots/mev-geth.git", :tag => "v1.10.8-mev0.3.0"
   head do
      url "https://github.com/flashbots/mev-geth.git", :branch => "master"
   end
